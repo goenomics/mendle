@@ -1,4 +1,4 @@
-# ![mendle](https://mendle.org/static/media/logo.3b886e1ca956361b32b96e91eb1840b6.svg)
+# ![mendle](https://mendle.org/_next/static/media/logo.20524b5b.svg)
 ### Intelligent search engine to access all genome data available worldwide
 
 This repository is intended to give our testers a platform for feedback during the alpha and beta phase of the search service [mendle.org](https://mendle.org). 
